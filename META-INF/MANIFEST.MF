@@ -16,3 +16,4 @@ Export-Package: com.anozimada.theme.factory,
  com.anozimada.theme.model,
  com.anozimada.theme.process
 Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
